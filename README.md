@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 🌱 I'm currently a Computer Science Master's Student
 <!--
 **mana998/mana998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
